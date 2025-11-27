@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 3.0.0 (2025-11-27)
+
+
+### Bug Fixes
+
+* **deps:** update dependencies (non-major) ([#1208](https://github.com/sabertazimi/hust-web/issues/1208)) ([70979d8](https://github.com/sabertazimi/hust-web/commit/70979d8833aed2f571455667a972e7050a12f989))
+
+
+
+
+
 # [2.9.0](https://github.com/sabertazimi/hust-web/compare/v2.8.0...v2.9.0) (2024-05-01)
 
 
